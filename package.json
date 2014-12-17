@@ -1,0 +1,8 @@
+{
+  "name": "building-with-gulp",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0"
+  }
+}
